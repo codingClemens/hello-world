@@ -1,3 +1,2 @@
 # hello-world
-My First Repository
-This is going to be my first commit on git!
+This is the second change commited to this branch
